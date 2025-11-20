@@ -1,0 +1,2 @@
+# Student-Marks-Percentage-Calculator-using-Java-Servlets
+A simple Java Servlet-based web application that calculates a student's total marks and percentage. The project includes an HTML form where users can enter their name and marks for Mathematics, Physics, and Chemistry. The submitted data is processed by a Java Servlet, which performs the percentage calculation and displays the result to the user.
